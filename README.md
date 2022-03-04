@@ -1,9 +1,8 @@
-# Projeto do Uber
+# Projeto de Odontologia
 
 
 ## Grupo 
 - Deborah Oliveira 
 - Maria Jaciara
 - Pedro Henrique
-- Guilherme Vinicius
 
